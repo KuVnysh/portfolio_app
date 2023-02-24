@@ -1,0 +1,71 @@
+body{
+    margin: 0px;
+    background: #130125;
+}
+.header{
+    display: flex;
+    flex-direction: row;
+    gap: 744px;
+    align-items: center;
+    margin: 32px 80px 32px 80px;
+}
+.name{
+    margin: 0px;
+    font-family: 'Courier New';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 28px;
+    /* line-height: 36px; */
+    color: #FFFFFF;
+    text-transform: capitalize;
+}
+.buttons_list{
+    display: flex;
+    gap: 32px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 22px;
+}
+.buttons{
+    border: none;
+    color: #FFFFFF;
+    background: #130125;
+    padding: 0px;
+}
+.hi{
+    margin-left: 80px;
+    margin-top: 160px;
+    margin-bottom: 32px;
+    font-family: 'Courier New';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 60px;
+    line-height: 72px;
+    color: #FFFFFF;
+}
+.who_i_am{
+    margin-left: 80px;
+    margin-top: 0px;
+    margin-bottom: 40px;
+    font-family: 'Kanit';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 20px;
+    line-height: 30px;
+    color: #FFFFFF;
+}
+.CV{
+    margin-left: 80px;
+    margin-bottom: 160px;
+    padding: 16px 24px;
+    background: #FD5A14;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 24px;
+    border-radius: 2px;
+    border: none;
+}
